@@ -1,0 +1,31 @@
+ProductID,ProductName,Category,Material,Color,Size,Price,StockQuantity,ProductionDate,Supplier,ProductionTime(hours),DefectRate(%),SalesRegion
+TEX031,Fleece Jacket,Apparel,Polyester,Navy,XL,49.99,75,3/15/2023,SyntheTex,3.2,1.1,North India
+TEX032,Satin Pillowcase,Home Textiles,Satin,Ivory,20x30 inches,18.5,120,3/15/2023,SilkRoad,0.7,0.3,West India
+TEX033,Cotton Socks,Accessory,Cotton,Black,M,5.99,250,3/20/2023,CottonWorld,0.3,0.2,South India
+TEX034,Leather Tote Bag,Accessory,Leather,Tan,Large,89.99,40,3/22/2023,LeatherWorks,4.5,1.8,North India
+TEX035,Linen Blazer,Apparel,Linen,Beige,M,75,55,3/25/2023,LinenLux,4,1,West India
+TEX036,Wool Cardigan,Apparel,Wool,Burgundy,L,65.5,60,3/28/2023,WoolMasters,3.8,0.9,South India
+TEX037,Denim Overalls,Apparel,Denim,Indigo,S,55,70,3/30/2023,DenimPro,3.5,1.3,North India
+TEX038,Silk Pajama Set,Apparel,Silk,Lavender,M,89.99,35,4/2/2023,SilkRoad,2.8,0.6,West India
+TEX039,Nylon Windbreaker,Apparel,Nylon,Yellow,L,42.99,90,4/5/2023,NylonGear,2,1,South India
+TEX040,Cashmere Beanie,Accessory,Cashmere,Charcoal,One Size,28.5,100,4/8/2023,CashmereCo,1,0.4,North India
+TEX041,Cotton Bath Towel,Home Textiles,Cotton,Sky Blue,30x60 inches,22.99,110,4/10/2023,CottonWorld,1.2,0.5,West India
+TEX042,Polyester Tracksuit,Apparel,Polyester,Red,M,59.99,65,4/12/2023,SyntheTex,3,1.2,South India
+TEX043,Leather Gloves,Accessory,Leather,Black,L,35,80,4/15/2023,LeatherWorks,1.5,0.7,North India
+TEX044,Linen Shirt,Apparel,Linen,White,XL,45.99,70,4/18/2023,LinenLux,2.5,0.8,West India
+TEX045,Wool Coat,Apparel,Wool,Camel,M,129.99,30,4/20/2023,WoolMasters,6,1.5,South India
+TEX046,Denim Tote Bag,Accessory,Denim,Light Blue,One Size,29.99,95,4/22/2023,DenimPro,1.8,0.9,North India
+TEX047,Silk Evening Gown,Apparel,Silk,Emerald,S,159.99,25,4/25/2023,SilkRoad,5.5,1.1,West India
+TEX048,Nylon Laptop Sleeve,Accessory,Nylon,Grey,15 inch,19.99,120,4/28/2023,NylonGear,0.8,0.3,South India
+TEX049,Cashmere Scarf,Accessory,Cashmere,Plum,One Size,55,60,4/30/2023,CashmereCo,1.2,0.5,North India
+TEX050,Cotton Apron,Home Textiles,Cotton,Sage Green,One Size,15.99,140,5/2/2023,CottonWorld,0.6,0.4,West India
+TEX051,Polyester Raincoat,Apparel,Polyester,Navy,L,49.99,75,5/5/2023,SyntheTex,2.2,1,South India
+TEX052,Leather Briefcase,Accessory,Leather,Brown,Standard,139.99,30,5/8/2023,LeatherWorks,5,1.7,North India
+TEX053,Linen Pants,Apparel,Linen,Khaki,34,52.5,65,5/10/2023,LinenLux,2.8,0.9,West India
+TEX054,Wool Sweater Vest,Apparel,Wool,Forest Green,M,39.99,80,5/12/2023,WoolMasters,1.8,0.6,South India
+TEX055,Denim Backpack,Accessory,Denim,Dark Blue,Medium,45,70,5/15/2023,DenimPro,2.5,1.1,North India
+TEX056,Silk Camisole,Apparel,Silk,Blush,S,32.99,90,5/18/2023,SilkRoad,1,0.4,West India
+TEX057,Nylon Duffel Bag,Accessory,Nylon,Orange,Large,38.5,85,5/20/2023,NylonGear,1.5,0.8,South India
+TEX058,Cashmere Pullover,Apparel,Cashmere,Teal,L,109.99,40,5/22/2023,CashmereCo,4,1,North India
+TEX059,Cotton Bathrobe,Home Textiles,Cotton,White,XL,49.99,55,5/25/2023,CottonWorld,2,0.7,West India
+TEX060,Polyester Yoga Pants,Apparel,Polyester,Black,M,35,100,5/28/2023,SyntheTex,1.5,0.5,South India
